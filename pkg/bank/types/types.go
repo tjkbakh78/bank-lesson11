@@ -12,6 +12,7 @@ const(
 	TJS Currency = "TJS"
 	RUB Currency = "RUB"
 	USD Currency = "USD"
+	EURO Currency = "EURO"
 )
 
 //PAN  пан?! Кажется это номер карты, если, конечно память не изменяет.
