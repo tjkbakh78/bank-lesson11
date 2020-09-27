@@ -25,8 +25,7 @@ type MinBalance Money
 type Card struct{
 	ID 			int 
 	PAN 			PAN
-	Balance 			Money 
-	MinBalance		Money
+	Balance 		Money //Использовали Noney
 	Currency 		Currency
 	Color 			string
 	Name 			string 
